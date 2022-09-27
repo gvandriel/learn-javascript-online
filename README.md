@@ -58,3 +58,9 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
   41. JSON
   42. Intro to fetch
   43. Working with fetch
+
+## Sep 28, 2022
+
+- Finished:
+
+  44. Handling fetch errors
