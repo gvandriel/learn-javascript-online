@@ -49,3 +49,11 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
   37. Using promises
   38. Promise rejection
   39. Creating promises
+
+## Sep 27, 2022
+
+- Finished:
+
+  40. Rejecting promises
+  41. JSON
+  42. Intro to fetch
