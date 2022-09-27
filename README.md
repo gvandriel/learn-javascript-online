@@ -57,3 +57,4 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
   40. Rejecting promises
   41. JSON
   42. Intro to fetch
+  43. Working with fetch
