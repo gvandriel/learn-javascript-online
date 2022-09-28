@@ -67,3 +67,4 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
   45. Fetch post, put and delete
   46. Modules
   47. Fetch Wrapper
+  48. DOM Selection I
