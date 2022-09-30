@@ -70,3 +70,4 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
   48. DOM Selection I
   49. DOM Selection II
   50. DOM innerHTML
+  51. Dom classes
