@@ -72,3 +72,7 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 
 51. DOM classes
 52. DOM attributes and styles
+
+## Oct 2, 2022
+
+53. DOM Misc
