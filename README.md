@@ -76,3 +76,4 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 ## Oct 2, 2022
 
 53. DOM Misc
+54. DOM append and prepend
