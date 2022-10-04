@@ -81,7 +81,7 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 
 ## Oct 4, 2022
 
-56. DOM Events II
+56. DOM Event II
 
 ## Oct 5, 2022
 
