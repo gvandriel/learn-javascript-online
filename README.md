@@ -78,3 +78,11 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 53. DOM Misc
 54. DOM append and prepend
 55. DOM Events I
+
+## Oct 4, 2022
+
+56. DOM Events II
+
+## Oct 5, 2022
+
+57. DOM Forms
