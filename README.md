@@ -87,3 +87,7 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 
 57. DOM Forms
 58. DOM Event III
+
+## Oct 6, 2022
+
+59. DOM + fetch
