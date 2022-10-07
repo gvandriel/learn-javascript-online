@@ -91,3 +91,7 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 ## Oct 6, 2022
 
 59. DOM + fetch
+
+## Oct 7, 2022
+
+60. DOM + fetch real APIs
