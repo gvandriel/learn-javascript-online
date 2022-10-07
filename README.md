@@ -96,3 +96,4 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 
 60. DOM + fetch real APIs
 61. DOM Outro
+62. Functions II
