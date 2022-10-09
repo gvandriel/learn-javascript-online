@@ -106,3 +106,4 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 
 64. Intro async await
 65. Awaiting promises
+66. Handle rejected Awaits
