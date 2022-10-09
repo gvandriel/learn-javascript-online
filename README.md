@@ -101,3 +101,7 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 ## Oct 8, 2022
 
 63. Exceptions
+
+## Oct 9, 2022
+
+64. Intro async await
