@@ -112,3 +112,4 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 
 67. Package managers
 68. Module bundlers
+69. EcmaScript
