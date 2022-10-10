@@ -115,3 +115,4 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 69. Advanced imports
 70. EcmaScript
 71. Legacy var
+72. Window object
