@@ -117,3 +117,4 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 71. Legacy var
 72. Window object
 73. Closures
+74. Loops & iterations
