@@ -118,3 +118,7 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 72. Window object
 73. Closures
 74. Loops & iterations
+
+## Oct 11, 2022
+
+75. The event loop
