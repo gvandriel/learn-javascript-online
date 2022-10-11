@@ -122,3 +122,4 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 ## Oct 11, 2022
 
 75. The event loop
+76. Multi-Step Final Project (part 1)
