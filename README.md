@@ -123,3 +123,7 @@ This is a progress overview of my Javascript learning. I am doing the interactiv
 
 75. The event loop
 76. Multi-Step Final Project (part 1)
+
+## Oct 12, 2022
+
+76. Multi-Stip Final Project (part 2)
